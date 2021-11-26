@@ -6,11 +6,11 @@ How to use :
 
 How to add into project :
 - add into 'pubspec.yaml'
-'''
+```dart
 flutter_date_pickers:
     git:
       url: https://github.com/bhautikcoretus/flutter_date_pickers.git
-'''
+```
 
 # flutter_date_pickers  
   
