@@ -2,7 +2,15 @@
 - now you can apply text style to year text.
 
 How to use :
-- just use "yearHeaderStyle: TextStyle()" in "DatePickerRangeStyles" to customize text style.
+```dart
+dp.DatePickerRangeStyles styles = DatePickerRangeStyles(
+  yearHeaderStyle: TextStyle(
+	color: Colors.green,
+	fontWeight: FontWeight.w500,
+	fontSize: 16,
+  ),
+);
+```
 
 How to add into project :
 - add into 'pubspec.yaml'
