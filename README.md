@@ -1,3 +1,17 @@
+# What's new in this forked rep.
+- now you can apply text style to year text.
+
+How to use :
+- just use "yearHeaderStyle: TextStyle()" in "DatePickerRangeStyles" to customize text style.
+
+How to add into project :
+- add into 'pubspec.yaml'
+'''
+flutter_date_pickers:
+    git:
+      url: https://github.com/bhautikcoretus/flutter_date_pickers.git
+'''
+
 # flutter_date_pickers  
   
 [![Actions Status](https://github.com/MariaMelnik/flutter_date_pickers/workflows/Test/badge.svg)](https://github.com/MariaMelnik/flutter_date_pickers/actions)
